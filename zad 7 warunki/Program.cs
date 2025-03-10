@@ -37,16 +37,16 @@ namespace zad_7_warunki
             else if (a >= 10) { a -= 10; Console.Write("X"); }
             switch (a)
             {
-                case 1: Console.WriteLine("I"); break;
-                case 2: Console.WriteLine("II"); break;
-                case 3: Console.WriteLine("III"); break;
-                case 4: Console.WriteLine("IV"); break;
-                case 5: Console.WriteLine("V"); break;
-                case 6: Console.WriteLine("VI"); break;
-                case 7: Console.WriteLine("VII"); break;
-                case 8: Console.WriteLine("VIII"); break;
-                case 9: Console.WriteLine("IX"); break;
-                default: Console.WriteLine(""); break;
+                case 1: Console.Write("I"); break;
+                case 2: Console.Write("II"); break;
+                case 3: Console.Write("III"); break;
+                case 4: Console.Write("IV"); break;
+                case 5: Console.Write("V"); break;
+                case 6: Console.Write("VI"); break;
+                case 7: Console.Write("VII"); break;
+                case 8: Console.Write("VIII"); break;
+                case 9: Console.Write("IX"); break;
+                default: Console.Write(""); break;
             }
                     Console.ReadKey(true);
 
