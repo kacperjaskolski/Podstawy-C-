@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad2 04", "..\..\04-petle w
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 1", "..\..\04-petle while do while\04-petle while do while\zad 1.csproj", "{5EEFF8BD-7A00-4124-86CD-CB636B594C15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 2 p", "zad 2 p\zad 2 p.csproj", "{D43F4F1D-6400-4E95-B64C-A81B273420BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,8 +59,15 @@ Global
 		{5EEFF8BD-7A00-4124-86CD-CB636B594C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EEFF8BD-7A00-4124-86CD-CB636B594C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EEFF8BD-7A00-4124-86CD-CB636B594C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43F4F1D-6400-4E95-B64C-A81B273420BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43F4F1D-6400-4E95-B64C-A81B273420BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43F4F1D-6400-4E95-B64C-A81B273420BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43F4F1D-6400-4E95-B64C-A81B273420BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5B69946-8524-4E4E-AA96-AC68B3719798}
 	EndGlobalSection
 EndGlobal
